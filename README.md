@@ -1,1 +1,1 @@
-# flask-api-template
+Flask API for fetching DB information.
